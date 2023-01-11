@@ -24,6 +24,8 @@ body {
     color: #d9dcd6;
 }
 
+
+/* div element is replaced with nav */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -101,17 +103,19 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+/* h3 elements are changed to h2 to follow sequential order */
+
+.benefit-lead h2 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
+.benefit-brand h2 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-cost h3 {
+.benefit-cost h2 {
     margin-bottom: 10px;
     text-align: center;
 }
