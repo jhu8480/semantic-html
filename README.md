@@ -9,30 +9,28 @@ This repository is for submitting Module 1 Challenge. The activities done in thi
 - modified heading elements so they are more logical: eg. h1 followed by h2
 - change the title value in the head section to the name of the company
 
-## User Story
+When first deployed, the index.html file was not in the root folder and therefore there was an issue deploying the page. Later it was fixed by moving index.html to the root folder. The links to images were also adjusted according to changed file location.
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+## Getting Started
 
-## Acceptance Criteria
+- dependencies: none / any browser can open the page.
 
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
+## Installing
 
-## Deployment
+- this is a static web page deployed to github pages, so no installation needed.
 
-the deployed page: https://jhu8480.github.io/Module-1-Challenge/
+## Executing program
+
+- N/A
+
+## Author of the page
+
+2019 Horiseon Social Solution Services, Inc.
+
+## Version history
+
+- N/A
+
+## License
+
+- N/A
