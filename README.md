@@ -1,4 +1,4 @@
-# Module 1 Challenge - HTML, CSS, and Git
+# Semantic html
 
 ## Description
 
